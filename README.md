@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Demshetadev
+- 👋 Hi, I’m @Devshetadev
 - 👀 I’m interested in veterinary care and technology
 - 🌱 I’m currently learning coding, programming, python, Kotlin, java, software developer, applications designing and developing 
 - 💞️ I’m looking to collaborate on veterinary care and artificial intelligence 
